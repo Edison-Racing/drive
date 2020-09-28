@@ -1,0 +1,1 @@
+This folder is for the virtual chassis simulator. This node subscribes the control commands from planning and control, simulate the vehicle motion, and publish perception topics so that the vehicle can test itself in simulation.
